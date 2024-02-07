@@ -7,3 +7,5 @@ $array = ['Lundi', 'Mardi'];
 foreach ($array as $key => $value) {
     echo " $key -> $value";
 }
+
+echo "fin du programme";
